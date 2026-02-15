@@ -47,3 +47,6 @@ android/app/src/main/res/drawable-port-mdpi/splash.png
 android/app/src/main/res/drawable-port-xhdpi/splash.png
 android/app/src/main/res/drawable-port-xxhdpi/splash.png
 android/app/src/main/res/drawable-port-xxxhdpi/splash.png.gemini/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
